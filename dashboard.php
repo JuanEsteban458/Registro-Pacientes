@@ -103,7 +103,6 @@
                 <a href="logout.php">Cerrar</a>
             </div>
         <?php endif; ?>
-
     </div>
 
     <script>
